@@ -2,7 +2,7 @@
 
 ## O aplikaci
 
-Tato aplikace se bude zabývat hodnocením filmů. V aplikaci by měli především hodnotit pouze studenti SPŠSE. Tato aplikace by znázorňovala oblíbenost filmů a filmových sérií mezi studenty. Aplikace bude obsahovat více žebříčků, jeden hlavní se všemi vybranými filmy, další pouze s filmy jedné filmové série apod. V aplikaci se nebudou objevovat všechny filmy, pouze vybrané. 
+Tato aplikace se bude zabývat hodnocením filmů. V aplikaci by měli především hodnotit pouze studenti SPŠSE. Tato aplikace by znázorňovala oblíbenost filmů a filmových sérií mezi studenty. Aplikace bude obsahovat více žebříčků, jeden hlavní se všemi vybranými filmy, další pouze s filmy jedné filmové série apod. V aplikaci se nebudou objevovat všechny filmy, pouze některé vybrané. 
 
 ## Princip aplikace
 
