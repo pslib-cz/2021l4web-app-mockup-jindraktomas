@@ -2,7 +2,7 @@
 
 ## O aplikaci
 
-Tato aplikace se bude zabývat hodnocením vybraných filmů. Aplikaci by měli především hodnotit pouze studenti SPŠSE. Tato aplikace by znázorňovala oblíbenost filmů a filmových žánrů mezi studenty. Aplikace by obsahovala více žebříčků, jeden hlavní se všemi vybranými filmy, další například pouze s filmy jedné filmové série atd. 
+Tato aplikace se bude zabývat hodnocením vybraných filmů. V aplikaci by měli především hodnotit pouze studenti SPŠSE. Tato aplikace by znázorňovala oblíbenost filmů a filmových sérií mezi studenty. Aplikace by obsahovala více žebříčků, jeden hlavní se všemi vybranými filmy, další například pouze s filmy jedné filmové série atd. 
 
 ## Princip aplikace
 
@@ -50,5 +50,14 @@ Jak již bylo zmíněno, tak ze všech hodnocení se budou vypočítávat prům�
 ![](./images/login_page-skolni_1920.jpg)
 ![](./images/login_page-obecna_1920.jpg)
 
+## Mobilní design 
 
+- aplikace by měla být funkční i na mobilních telefonech 
+- návrhy některých mobilních zobrazení
 
+![](./images/login_page-skolni_360.jpg) ![](./images/login_page-obecna_360.jpg)
+![](./images/Stranka_pro_hodnoceni_filmu_360.jpg) ![](./images/Stranka_pro_hodnoceni_filmu_360-hamburger.jpg)
+
+##
+
+Aplikace by mohla být malým spestřením pro studenty. Vhodná na doporučování filmů nebo také na ukázání jaké filmy jsou mezi studenty trendy.
