@@ -14,7 +14,7 @@ Apliace je designována do tmavého pozadí s kontrastními barvami pro písmo. 
 
 Návrh celé aplikace je vytvořen jak pro mobilní tak pro desktopové zobrazení. Při zobrazení na mobilních telefonech se menu s rozhraním v horní částí obrazovky zabalí do hamburger menu. Na stránce se nachází ještě jedno menu, které je fixní a je možné ho kdykoliv rozkliknout i po scrollování. Jedná se o menu s výběrem konkrétních tématických žebříčků. Menu je možné schovat po kliknutí na šipku.
 
-![](./images/Paleta%20barev.jpg)
+![](./images/Paleta_barev.jpg)
 
 ## Princip hodnocení
 
@@ -27,19 +27,28 @@ Jak již bylo zmíněno, tak ze všech hodnocení se budou vypočítávat prům�
 - filmy jsou náhodně seřazeny
 - možnost vyhledání filmu
 
+![](./images/Stranka_pro_hodnoceni_filmu_1920.jpg)
+
 ## Žebříček nejoblíbenějších filmů
 
 - ohodnocené filmy, které jsou seřazeny od nejlépe hodnoceného
 - možnost vyhledání filmu
 
+![](./images/Zebricek_1920.jpg)
+
 ## Filmové série 
 
 - vybraná série a porovnání jednotlivých filmů
+
+![](./images/Zebricek_filmova_serie_1920.jpg)
 
 ## Přihlašovací stránka 
 
 - odkaz na přihlášení přes školní účet
 - alternativní možnost při nepropojení se školním účtem (vytvoření účtu)
+
+![](./images/login_page-skolni_1920.jpg)
+![](./images/login_page-obecna_1920.jpg)
 
 
 
