@@ -14,6 +14,8 @@ Apliace je designována do tmavého pozadí s kontrastními barvami pro písmo. 
 
 Návrh celé aplikace je vytvořen jak pro mobilní tak pro desktopové zobrazení. Při zobrazení na mobilních telefonech se menu s rozhraním v horní částí obrazovky zabalí do hamburger menu. Na stránce se nachází ještě jedno menu, které je fixní a je možné ho kdykoliv rozkliknout i po scrollování. Jedná se o menu s výběrem konkrétních tématických žebříčků. Menu je možné schovat po kliknutí na šipku.
 
+![](./images/Paleta%20barev.jpg)
+
 ## Princip hodnocení
 
 Každý film v hodnotícím seznamu bude obsahovat obrázek pro znázornění (nejčastěji plakát), jméno filmu, jméno režiséra a dvou herců. Pod těmito informacemi se bude nacházet 10 hvězdiček určených k hodnocení filmů. Když by uživatel chtěl dát filmu hodnocení 9 kliknul by na devátou hvězdičku zprava. Tím by se všech devět hvězdiček zabarvilo do žluta a film by byl považován jako ohodnocený. Hodnocení by bylo možné kdykoliv změnit kliknutím na jinou hvězdičku.
