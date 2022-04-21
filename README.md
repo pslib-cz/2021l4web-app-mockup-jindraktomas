@@ -8,13 +8,40 @@ Tato aplikace se bude zabývat hodnocením vybraných filmů. V aplikaci by měl
 
 Princip této webové aplikace je jednoduchý. Jednalo by se tedy o stránku, na které by si každý student mohl zhodnotit filmy podle svého názoru. Na stránce by byl jeden hodnotící žebříček, ve kterém by se nacházely vybrané filmy. V tomto žebříčku by se jednotilvé filmy hodnotily hvězdičkami 1-10. Data z tohoto žebříčku by se následně u každého filmu načítala a celkové hodnocení (počet hvězdiček) by se průměroval počtem uživatelů, kteří film hodnotili (počet hodnocení). Na základě těchto údajů by se automaticky vytvářel žebříček nejlépe hodnocených filmů. Dále by bylo možné vybrat z předurčených dalších menších žebříčků, týkajících se jedné filmové série. V této sérii by se řadili podle hodnocení pouze předurčené filmy.
 
+## Rozložení stránek
+
+- hlavní stránkou je stránka *Filmy k hodnocení*
+- další stránkou je *Žebříček nejoblíbenějších filmů* obsahující seznam všech filmů seřazený podle hodnocení
+- poslední stránkou je *Žebříčky filmových sérií* jenž obsahuje odkazy na různé specifické žebříčky týkající se pouze jedné filmové série např. Harryho Pottera
+
 ## Design aplikace
 
 Apliace je designována do tmavého pozadí s kontrastními barvami pro písmo. V pozadí je použit gradient přecházející z černé #000000 až do tmavě modré #003459. Písmo je světlé barvy #F1FAEE. Zbylé prvky jsou v barvách modrozelené - #A5CCD1, #42697C.
+- černá `#000000`
+- tmavě modrá `#003459`
+- modro-zelená světlá `#A5CCD1`
+- modro-zelená tmavá `#42697C`
 
-Návrh celé aplikace je vytvořen jak pro mobilní tak pro desktopové zobrazení. Při zobrazení na mobilních telefonech se menu s rozhraním v horní částí obrazovky zabalí do hamburger menu. Na stránce se nachází ještě jedno menu, které je fixní a je možné ho kdykoliv rozkliknout i po scrollování. Jedná se o menu s výběrem konkrétních tématických žebříčků. Menu je možné schovat po kliknutí na šipku.
+- Návrh celé aplikace je vytvořen jak pro mobilní tak pro desktopové zobrazení.
 
 ![](./images/Paleta_barev.jpg)
+
+### Font
+
+- na celé stránce je použit font [Poppins](https://fonts.google.com/specimen/Poppins)
+- názvy filmů mají velikost `25px` pro desktop a `16px` pro telefon
+- barva: `#F1FAEE`
+- navigační prvky mají velikost `22px` pro desktop `14px` pro telefon
+- textové prvky (režie, hrají) mají velikost `18px` pro desktop `14px` pro telefon
+
+### Menu
+
+- není fixní
+- při mobilním zobrazení se menu mění na hamburger menu a je rozbalovací
+- obsahuje navigaci na stránky Filmy k Hodnocení, Žebříček nejlepších filmů, Žebříčky filmových sérií, tlačítko odhlášení a vyhledávání
+
+- druhé postraní menu je fixní `position: fixed;`, při kliknutí vyjede a zajede
+- slouží k navigaci na žebříčky filmových sérií
 
 ## Princip hodnocení
 
