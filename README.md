@@ -1,4 +1,4 @@
-# Pslib movie ratings
+# MOVIE RATINGS
 
 ## O aplikaci
 
