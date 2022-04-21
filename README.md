@@ -39,7 +39,6 @@ Apliace je designována do tmavého pozadí s kontrastními barvami pro písmo. 
 - není fixní
 - při mobilním zobrazení se menu mění na hamburger menu a je rozbalovací
 - obsahuje navigaci na stránky Filmy k Hodnocení, Žebříček nejlepších filmů, Žebříčky filmových sérií, tlačítko odhlášení a vyhledávání
-
 - druhé postraní menu je fixní `position: fixed;`, při kliknutí vyjede a zajede
 - slouží k navigaci na žebříčky filmových sérií
 
