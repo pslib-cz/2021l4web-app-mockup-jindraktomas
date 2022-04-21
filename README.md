@@ -44,14 +44,14 @@ Apliace je designována do tmavého pozadí s kontrastními barvami pro písmo. 
 
 ## Princip hodnocení
 
-Každý film v hodnotícím seznamu bude obsahovat obrázek pro znázornění (nejčastěji plakát), jméno filmu, jméno režiséra a dvou herců. Pod těmito informacemi se bude nacházet 10 hvězdiček určených k hodnocení filmů (1 - nejhorší, 10 - nejlepší). Když by uživatel chtěl dát filmu hodnocení 9 kliknul by na devátou hvězdičku zprava. Tím by se všech devět hvězdiček zabarvilo do žluta a film by byl považován jako ohodnocený. Hodnocení by bylo možné kdykoliv změnit kliknutím na jinou hvězdičku.
-Jak již bylo zmíněno, tak ze všech hodnocení se budou vypočítávat průměrná hodnocení filmů. Ta se budou propisovat do "žebříčku nejoblíbenějších filmů", ve kterém se od nejlepšího hodnocení budou filmy řadit až po to nejhorší. Filmy v žebříčku bude možné nastavit od nejlepších po nejhorší, ale také obráceně a to pomocí tlačítka v pravé části obrazovky.
+Každý film v hodnotícím seznamu bude obsahovat obrázek pro znázornění (nejčastěji plakát), jméno filmu, jméno režiséra a dvou herců. Pod těmito informacemi se bude nacházet 10 hvězdiček, určených k hodnocení filmů (1 - nejhorší, 10 - nejlepší). Když by uživatel chtěl dát filmu hodnocení 9, kliknul by na devátou hvězdičku zprava. Tím by se všech devět hvězdiček zabarvilo do žluta a film by byl považován jako ohodnocený. Hodnocení by bylo možné kdykoliv změnit kliknutím na jinou hvězdičku.
+Jak již bylo zmíněno, tak ze všech hodnocení se budou vypočítávat průměrná hodnocení filmů. Ta se budou propisovat do *žebříčku nejoblíbenějších filmů*, ve kterém se budou filmy řadit podle hodnocení. A to od nejvyššího (nejlepšího - 10) po nejnižší (nejhorší - 0/1). Filmy v žebříčku bude možné nastavit také obráceně (od nejhoršího po nejlepší) a to pomocí tlačítka v pravé části obrazovky.
 
 ## Rozložení stránek
 
 - hlavní stránkou je stránka *Filmy k hodnocení*
-- další stránkou je *Žebříček nejoblíbenějších filmů* obsahující seznam všech filmů seřazený podle hodnocení
-- poslední stránkou je *Žebříčky filmových sérií* jenž obsahuje odkazy na různé specifické žebříčky týkající se pouze jedné filmové série např. Harryho Pottera
+- další stránkou je *Žebříček nejoblíbenějších filmů* obsahující seznam všech filmů, seřazený podle hodnocení
+- poslední stránkou je *Žebříčky filmových sérií* jenž obsahuje odkazy na různé specifické žebříčky, týkající se pouze jedné filmové série např. Harryho Pottera
 
 ### Filmy k hodnocení
 
